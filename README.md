@@ -9,6 +9,4 @@ Para executar o programa, siga os passos abaixo:
 
 1. **Abra o Terminal**.
 2. **Navegue até o diretório** onde o arquivo `main.py` está localizado.
-3. **Digite o seguinte comando**:
-   ```bash
-   python main.py
+3. **Digite o seguinte comando**: `python main.py`
