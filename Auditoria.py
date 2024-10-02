@@ -1,0 +1,5 @@
+class Auditoria:
+    
+    pass
+        
+
