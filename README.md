@@ -1,5 +1,14 @@
-# Link do Canva: https://www.canva.com/design/DAGRujfktWo/mxOuKYwyCT42kz6Jtlfsjw/edit
+# Sistema de Gerenciamento de Produtos
 
-# Para exercutar digite no terminal, já na pasta: python main.py
-# código: admin
-# senha: 1234
+## Link do Canva
+[Design do Canva](https://www.canva.com/design/DAGRujfktWo/mxOuKYwyCT42kz6Jtlfsjw/edit)
+
+## Como Executar o Programa
+
+Para executar o programa, siga os passos abaixo:
+
+1. **Abra o Terminal**.
+2. **Navegue até o diretório** onde o arquivo `main.py` está localizado.
+3. **Digite o seguinte comando**:
+   ```bash
+   python main.py
