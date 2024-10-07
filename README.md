@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Produtos
 
 ## Link do Canva
-[Design do Canva](https://www.canva.com/design/DAGRujfktWo/mxOuKYwyCT42kz6Jtlfsjw/edit)
+[Design do Canva](https://www.canva.com/design/DAGS3OQka2g/jZs2co250T4kTONYFOLwRw/edit?utm_content=DAGS3OQka2g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Como Executar o Programa
 
